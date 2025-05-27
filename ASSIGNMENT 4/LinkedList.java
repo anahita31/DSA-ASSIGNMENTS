@@ -222,4 +222,22 @@ public static void main(String[] args) {
 	}
 }
 }
-    	
+
+
+//output
+*****MENU*****
+0: Exit
+1: Creation
+2: Display
+3: Insert at Beginning
+4: Insert at End
+5: Insert at Any Position
+6: Delete from Beginning
+7: Delete from End
+8: Delete from Any Position
+9: Delete by regd_no
+10: Search and Update Mark
+11: Sort by Mark (Descending)
+12: Count Nodes
+13: Reverse List
+Enter your choice: 
